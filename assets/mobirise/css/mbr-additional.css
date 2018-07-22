@@ -3826,21 +3826,45 @@ body {
 .cid-qUlSyynhhQ .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qG8ssUja9x {
+  background-image: url("../../../assets/images/mbr-10-1620x1080.jpg");
+}
 .cid-qG8ssUja9x H1 {
-  text-align: center;
+  text-align: left;
   color: #fff789;
 }
 .cid-qG8ssUja9x SPAN {
-  color: #333333;
+  color: #ffffff;
 }
 .cid-qG8ssUja9x .mbr-text,
 .cid-qG8ssUja9x .mbr-section-btn {
   color: #232323;
-  text-align: center;
+  text-align: left;
 }
 .cid-qG8ssUja9x .mbr-text,
 .cid-qG8ssUja9x .mbr-section-btn B {
+  color: #ffffff;
+}
+.cid-qYxfRtk3e5 {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #f9f9f9;
+}
+.cid-qYxfRtk3e5 .mbr-section-subtitle {
   color: #232323;
+}
+.cid-qYxdqIKLmI {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: #f9f9f9;
+}
+.cid-qYxdqIKLmI .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qYxdqIKLmI .video-block {
+    width: 100% !important;
+  }
 }
 .cid-qTCYEqC66N {
   padding-top: 15px;
